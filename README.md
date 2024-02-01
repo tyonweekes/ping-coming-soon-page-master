@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://radiant-lily-9a654e.netlify.app/)
+- Live Site URL: [https://radiant-lily-9a654e.netlify.app/]
 
 ## My process
 
